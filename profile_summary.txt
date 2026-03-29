@@ -1,0 +1,9 @@
+I am an AI engineer with about five years of experience working across data science and modern LLM engineering. My background started in data science, where I worked on building machine learning models, data pipelines, and analytical systems using Python and common ML frameworks. Over the past few years I have transitioned into building applications powered by large language models and generative AI systems.
+
+My current focus is on designing and deploying LLM-powered products and AI applications. I have experience building end-to-end AI systems that involve data processing, model integration, retrieval pipelines, and backend services. I work extensively with Python and have experience implementing LLM workflows such as retrieval augmented generation (RAG), prompt engineering, evaluation pipelines, and integrating APIs from modern AI platforms.
+
+I am comfortable working with modern LLM engineering tooling and infrastructure, including frameworks such as LangChain or similar orchestration tools, vector databases, and scalable backend systems. My work involves building production-ready systems that handle model inference, data retrieval, and integration with external services. I also have experience designing robust pipelines, improving system performance, and deploying AI applications in real environments.
+
+I am particularly interested in roles where I can build practical AI products using large language models, generative AI, and machine learning systems. The kinds of roles I am targeting include LLM engineer, generative AI engineer, AI engineer, machine learning engineer, NLP engineer, or applied AI engineer. I enjoy working on problems involving LLM pipelines, retrieval systems, AI agents, and scalable ML infrastructure.
+
+I am looking for remote roles where I can contribute to building real-world AI systems, especially teams working on LLM applications, generative AI products, AI platforms, or intelligent data systems.
